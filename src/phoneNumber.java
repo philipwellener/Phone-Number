@@ -30,3 +30,9 @@ public class phoneNumber
 	
 
 }
+
+
+//Console
+//What is your name: Philip Wellener
+//What is your phone number: 4849851426
+//Philip Wellener      (484)-985-1426
